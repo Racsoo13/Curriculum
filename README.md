@@ -1,2 +1,2 @@
 # Curriculum
-Este es mi curriculum
+Template of C.V.
